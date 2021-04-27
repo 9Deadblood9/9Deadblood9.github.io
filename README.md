@@ -1,2 +1,0 @@
-# VOK HUHT
-Printf("Щось");
